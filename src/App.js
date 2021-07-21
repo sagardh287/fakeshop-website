@@ -6,7 +6,8 @@ import productDetails from './container/productDetails';
 
 function App() {
   return (
-    <div className="App">
+
+    <div>
       <Router>
       <Header />
         <Switch>
